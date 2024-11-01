@@ -130,6 +130,7 @@ dist
 .pnp.*
 
 # Temporary files
+.DS_Store
 tmp*
 web/hosting
 *.pdf

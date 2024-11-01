@@ -1,0 +1,6 @@
+[build]
+builder="gcr.io/buildpacks/builder"
+
+[[build.env]]
+name = "NODE_ENV"
+value = "development"
